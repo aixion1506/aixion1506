@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=sung%20hwan&fontSize=50)
 <!--내용 부분-->
-<h3 align="center">✨ Tech Stack ✨</h3>
 
 <!-- Frontend -->
 <div align="center">
