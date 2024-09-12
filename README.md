@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=sung%20hwan&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=Dev%20Cat&fontSize=50)
 <!--내용 부분-->
 
 <!-- Frontend -->
