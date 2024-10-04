@@ -32,18 +32,9 @@
   <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
 </div>
 
-<br>
-
-<div style="display: flex; justify-content: space-between;">
-  <a href="https://github.com/aixion1506/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aixion1506" alt="Top Langs" />
-  </a>
-  <a href="https://github.com/aixion1506/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=aixion1506" alt="Anurag's GitHub stats" />
-  </a>
-</div>
 
 <br>
+
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aixion1506&layout=compact&theme=tokyonight&hide_border=true&bg_color=43655F&title_color=FFDD94&text_color=38bdae)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aixion1506&show_icons=true&theme=tokyonight&hide_border=true&bg_color=43655F&title_color=FFDD94)
