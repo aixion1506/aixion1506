@@ -20,18 +20,12 @@
     <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
 </div>
 
-<!-- Database -->
+<!-- Data & Infrastructure -->
 
 <div align="center">
-  <h3>Database</h3>
+  <h3>Data & Infrastructure</h3>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/TimescaleDB-FDB515?style=for-the-badge&logo=timescale&logoColor=black">
-</div>
-
-<!-- Messaging & Infra -->
-<div align="center">
-  <h3>Messaging & Infra</h3>
-
   <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white">
   <img src="https://img.shields.io/badge/NATS%20JetStream-27AAE1?style=for-the-badge&logo=natsdotio&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
