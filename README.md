@@ -4,38 +4,45 @@
 <!-- Language -->
 <div align="center">
   <h3>Language</h3>
-  <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
+  <img src="https://img.shields.io/badge/Java-6DB33F?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
+  <img src="https://img.shields.io/badge/TypesSript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+&nbsp
 </div>
 
 
  <!-- Backend -->
 <div align="center">
   <h3>Backend</h3>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-  <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white">
-  <br>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
-  <br>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/TypeORM-EBAF00?style=for-the-badge&logo=typeorm&logoColor=white">
+    <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
 </div>
 
+<!-- Database -->
+
+<div align="center">
+  <h3>Database</h3>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/TimescaleDB-FDB515?style=for-the-badge&logo=timescale&logoColor=black">
+</div>
+
+<!-- Messaging & Infra -->
+<div align="center">
+  <h3>Messaging & Infra</h3>
+
+  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white">
+  <img src="https://img.shields.io/badge/NATS%20JetStream-27AAE1?style=for-the-badge&logo=natsdotio&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+</div>
 
 <!-- Frontend -->
 <div align="center">
   <h3>Frontend</h3>
+  <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
-  <br>
-  <img src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
   <img src="https://img.shields.io/badge/zustand-ff6d00?style=for-the-badge&logo=zustand&logoColor=white" />
-  <img src="https://img.shields.io/badge/jotai-FF4B00?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/tailwindcss-1daabb.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp
 </div>
 
@@ -54,5 +61,14 @@
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=aixion1506&theme=react-dark&bg_color=20232a&hide_border=true&line=FFDD94&color=6060c4" width=94%/>
 </a> -->
-<br />
-<br />
+
+<!-- 이력서 -->
+<div align="center">
+  <h3>Resume & Portfolio</h3>
+  <strong>
+    <a href="https://file.notion.so/f/f/d37e5e2a-4a38-446d-b144-3abfb75b1079/243159f6-9e47-45a1-a277-b0bc112a904d/MSA.pdf?table=block&id=39aed1ef-40d6-800d-98b2-c13492903e76&spaceId=d37e5e2a-4a38-446d-b144-3abfb75b1079&expirationTimestamp=1783814400000&signature=3i0N_QK9fLXgK-c4o0BGWeYrf1IAZ-BMDFauZDSJZaA&downloadName=MSA.pdf">📄 이력서</a>
+    &nbsp; | &nbsp;
+    <a href="https://file.notion.so/f/f/d37e5e2a-4a38-446d-b144-3abfb75b1079/9cdd0900-124e-4326-8c60-ecf65109d570/_1%E1%84%86%E1%85%A1%E1%86%AB_%E1%84%83%E1%85%A2_IoT_%E1%84%83%E1%85%B5%E1%84%87%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%89%E1%85%B3_%E1%84%92%E1%85%A6%E1%86%AF%E1%84%89%E1%85%B3_%E1%84%86%E1%85%A9%E1%84%82%E1%85%B5%E1%84%90%E1%85%A5%E1%84%85%E1%85%B5%E1%86%BC_%E1%84%91%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A2%E1%86%BA%E1%84%91%E1%85%A9%E1%86%B7.pdf?table=block&id=39aed1ef-40d6-8081-aa01-d6b4b649b306&spaceId=d37e5e2a-4a38-446d-b144-3abfb75b1079&expirationTimestamp=1783814400000&signature=QD0SSVEZF8JxYe3THkSnnoYZCb-ZcT0pkf1IjbGp4QI&downloadName=%F0%9F%9A%80+1%E1%84%86%E1%85%A1%E1%86%AB+%E1%84%83%E1%85%A2+IoT+%E1%84%83%E1%85%B5%E1%84%87%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%89%E1%85%B3+%E1%84%92%E1%85%A6%E1%86%AF%E1%84%89%E1%85%B3+%E1%84%86%E1%85%A9%E1%84%82%E1%85%B5%E1%84%90%E1%85%A5%E1%84%85%E1%85%B5%E1%86%BC+%E1%84%91%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A2%E1%86%BA%E1%84%91%E1%85%A9%E1%86%B7.pdf
+      ">📁 포트폴리오</a>
+  </strong>
+</div>
