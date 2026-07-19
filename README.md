@@ -6,10 +6,10 @@
   <h3>Resume & Portfolio</h3>
   <strong>
     <h4>
-    <a href="https://drive.google.com/file/d/1D0IbPplaTzjSMeHKop9SkUm-xnvAPU76/view?usp=drive_link
+    <a href="https://drive.google.com/file/d/1D0IbPplaTzjSMeHKop9SkUm-xnvAPU76/view?usp=sharing
       ">📄 이력서</a>
     &nbsp; | &nbsp;
-    <a href="https://drive.google.com/file/d/1zoL-jQc-RfzrjfWXnNwrZzafRmvP36ad/view?usp=drive_link
+    <a href="https://drive.google.com/file/d/1zoL-jQc-RfzrjfWXnNwrZzafRmvP36ad/view?usp=sharing
       ">📁 포트폴리오</a>
   </strong>
     </h4>
