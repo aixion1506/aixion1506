@@ -2,7 +2,7 @@
 <!--내용 부분-->
 
 <!-- 이력서 -->
-<div align="center">
+<!-- <div align="center">
   <h3>Resume & Portfolio</h3>
   <strong>
     <h4>
@@ -13,7 +13,7 @@
       ">📁 포트폴리오</a>
   </strong>
     </h4>
-</div>
+</div> -->
 
     
 <!-- Language -->
